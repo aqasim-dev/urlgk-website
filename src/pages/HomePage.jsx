@@ -23,7 +23,7 @@ const HomePage = () => {
   const heroSections = [
     {
       id: 'hombres',
-      title: 'Estudios Urológicos Especializados',
+      title: '(HEALTH)Estudios Urológicos Especializados',
       subtitle: 'Tecnología de vanguardia para diagnósticos precisos',
       description: 'Uroflujometría y urodinamia con equipos de última generación. Resultados confiables para tomar las mejores decisiones sobre tu salud.',
       cta: 'Agendar Consulta Confidencial',
