@@ -62,7 +62,7 @@ git add .
 git commit -m "Your commit message" # required to track history
 # make changes in any file
 git pull origin default-branch 
-git push origin default branch
+git push origin default-branch
 ```
 
 
