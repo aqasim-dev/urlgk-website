@@ -64,5 +64,15 @@ git commit -m "Your commit message" # required to track history
 git pull origin default-branch 
 git push origin default-branch
 ```
+# rename any file in any branch of repository
+# all commands
+```bash
+git switch branch-name # open the branch in which the file exist
+git git mv old_filename.md new_filename.md
+git add .
+git commit -m "rename the file"
+git push origin branch name 
+```
+
 
 
