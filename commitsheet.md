@@ -63,6 +63,7 @@ git commit -m "Your commit message"
 # make changes in any file
 git pull origin default-branch 
 git pull origin default-branch --rebase
+git push origin default branch
 ```
 
 
