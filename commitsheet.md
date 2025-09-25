@@ -55,4 +55,12 @@ git branch -m old-branch-name new-branch-name
 git push origin new-branch-name
 git push origin --delete old-branch-name
 ```
+# all commands to make changes in the default branch
+```bash
+git switch default-branch
+# make changes in any file
+git pull origin default-branch 
+git pull origin default-branch --rebase
+```
+
 
